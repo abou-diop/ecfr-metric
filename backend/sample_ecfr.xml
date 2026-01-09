@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ECFR>
+  <TITLE>
+    <HD>Title 12 - Banks and Banking</HD>
+    <PART N="1">
+      <HD>PART 1 - INVESTMENT SECURITIES</HD>
+      <SUBPART N="A">
+        <HD>Subpart A - General Provisions</HD>
+        <SECTION N="1.1">
+          <HD>§ 1.1 Authority, purpose, and scope</HD>
+          <P>(a) Authority. This part is issued under 12 U.S.C. 24(Seventh), 93a, and 5412(b)(2)(B).</P>
+          <P>(b) Purpose. The purpose of this part is to prescribe standards under which national banks and Federal savings associations may purchase, sell, deal in, underwrite, and hold securities.</P>
+          <P>(c) Scope. This part applies to national banks and Federal savings associations.</P>
+        </SECTION>
+        <SECTION N="1.2">
+          <HD>§ 1.2 Definitions</HD>
+          <P>(a) Investment security means a marketable debt obligation that is not predominantly speculative in nature.</P>
+          <P>(b) Type I security means a security that may be held without regard to the limitations of this part.</P>
+          <P>(c) Type II security means a security that may be held subject to the limitations of this part.</P>
+        </SECTION>
+        <SECTION N="1.3">
+          <HD>§ 1.3 Limitations on holdings</HD>
+          <P>A national bank may not invest in Type II securities to the extent that the aggregate par value of the securities issued by any one obligor exceeds 10 percent of the bank's capital and surplus.</P>
+          <P>For Type I securities, there are no such limitations, as these are considered risk-free investments for the purposes of regulatory compliance.</P>
+        </SECTION>
+      </SUBPART>
+      <SUBPART N="B">
+        <HD>Subpart B - Permissible Investments</HD>
+        <SECTION N="1.10">
+          <HD>§ 1.10 Government securities</HD>
+          <P>A national bank may deal in, underwrite, and purchase and sell obligations of the United States Government and general obligations of any State or political subdivision thereof.</P>
+        </SECTION>
+        <SECTION N="1.11">
+          <HD>§ 1.11 Corporate debt securities</HD>
+          <P>A national bank may deal in and underwrite corporate debt securities that are investment grade as defined by nationally recognized statistical rating organizations.</P>
+          <P>Investment decisions must be prudent and consistent with safe and sound banking practices.</P>
+        </SECTION>
+      </SUBPART>
+    </PART>
+    <PART N="2">
+      <HD>PART 2 - MINIMUM CAPITAL REQUIREMENTS</HD>
+      <SUBPART N="A">
+        <HD>Subpart A - Capital Adequacy Standards</HD>
+        <SECTION N="2.1">
+          <HD>§ 2.1 Minimum capital requirements</HD>
+          <P>Each national bank must maintain minimum capital ratios as prescribed by the Office of the Comptroller of the Currency.</P>
+          <P>The minimum leverage ratio is 4 percent of total assets. The minimum risk-based capital ratio is 8 percent of risk-weighted assets.</P>
+        </SECTION>
+        <SECTION N="2.2">
+          <HD>§ 2.2 Capital components</HD>
+          <P>Capital consists of Tier 1 capital and Tier 2 capital. Tier 1 capital includes common stock, retained earnings, and certain qualifying instruments.</P>
+        </SECTION>
+      </SUBPART>
+    </PART>
+  </TITLE>
+</ECFR>
