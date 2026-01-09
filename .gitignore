@@ -32,3 +32,6 @@ Thumbs.db
 # Temporary files
 /tmp/
 *.tmp
+
+# Playwright
+/tmp/playwright-logs/
